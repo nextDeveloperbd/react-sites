@@ -3,8 +3,8 @@
 const Home = () => {
     return (
         <div>
-            <h1>This is home page</h1>
-        </div>
+            <h1>This is  gfghome page</h1>
+        </div> 
     );
 };
 
